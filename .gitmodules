@@ -1,3 +1,6 @@
 [submodule "project_structure"]
 	path = project_structure
 	url = https://github.com/jayoadonis/project_structure.git
+[submodule "object_oriented_programming"]
+	path = object_oriented_programming
+	url = https://github.com/jayoadonis/learn_cpp.object_oriented_programming.git
